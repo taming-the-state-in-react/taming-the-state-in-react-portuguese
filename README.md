@@ -2,24 +2,28 @@
 
 [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
 
-The official repository for [Taming the State in React](https://roadtoreact.com/). If you want to leave a review, you can do it on [Amazon](https://www.amazon.com/dp/B07CYKDQ5S?tag=21moves-20) or [Goodreads](https://www.goodreads.com/book/show/36599578-taming-the-state-in-react).
+Repositório oficial da tradução em português do livro [Taming the State in React][1]. Também contém o Código Fonte da aplicação desenvolvida.
 
-## Updates, Help and Support
+## Atualizações, Ajuda e Como apoiar
 
-- Get book updates via [E-Mail](https://www.getrevue.co/profile/rwieruch) or [Twitter](https://twitter.com/rwieruch)
-- Get help, while learning React with the book or teach others, in the official [Slack Channel](https://slack-the-road-to-learn-react.wieruch.com/)
-- Find out how you can [Support the Book](https://www.robinwieruch.de/about/)
+* Seja notificado sobre atualizações via [E-Mail][2] ou [Twitter][3]
+* Obtenha ajuda durante o aprendizado de React ou contribua ensinando outras pessoas no canal oficial no [Slack ][4]
+* Descubra como você pode [Apoiar o Livro][5]
 
-## Contribute
+## Contribuindo
 
-You can help to improve the book by opening Issues and Pull Requests (PR).
+Um texto narrativo funciona de forma um pouco diferente de códigos-fonte, pois precisa passar para o leitor uma sensação de continuidade, do começo ao fim do livro. Juntar pequenos pedaços de texto de fontes diferentes pode gerar um texto um tanto quanto inconsistente.
 
-You can open up any PR that corrects spelling or explains a certain lesson with more detail. When writing such a technical book, you get fast blind on what needs more explanation and on what is already explained well.
+Além disso, parágrafos e até capítulos inteiros já traduzidos não necessariamente são sincronizados imediatamente, aguardando revisão.
 
-In addition, you can open Issues when you run into problems. In order to make the fix for the Issue as easy as possible, please provide a couple of details such as error log, screenshot, which page of the book it happened, your node version (command line: `node -v`) and a link to your own repository. Not all of these details are mandatory, but most of them help to fix the Issue and to improve the book.
+Então, juntamente com o autor da versão original, decidi fazer um primeiro rascunho, com a tradução inicial de todas as seções e depois abri-lo para sugestões, melhorias e correções, através de _PRs_ e _issues_. Serão todas muito bem vindas.
 
-Thanks a lot for your help!
+Se quiser abrir um _issue_ para algum capítulo já completamente traduzido, fique à vontade. Ficarei muito grato.
 
-## Become a Patron
+**Este README.md será atualizado quando tivermos a primeira versão completa, aberto à colaborações maiores**
 
-The Road to learn React is a free ebook which should enable everyone to learn about React. This kind of educational content needs your support to sustain itself. Robin Wieruch writes a lot of this educational content on [his website](https://www.robinwieruch.de/) too. So you can support him be being his [Patron on Patreon](https://www.patreon.com/rwieruch).
+[1]:	https://roadtoreact.com/
+[2]:	https://www.getrevue.co/profile/rwieruch
+[3]:	https://twitter.com/rwieruch
+[4]:	https://slack-the-road-to-learn-react.wieruch.com/
+[5]:	https://www.robinwieruch.de/about/
