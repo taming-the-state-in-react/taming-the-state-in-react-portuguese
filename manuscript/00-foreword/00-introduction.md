@@ -22,7 +22,7 @@ Se desejar aprender alguma coisa, deverá fazê-lo passo a passo. Tente resolver
 
 O livro segue com o tema central de gerenciamento de estado em aplicações. Ele começa com o gerenciamento do estado local em uma biblioteca focada na camada de visão (React), aponta os problemas com ele em aplicações maiores e irá se encaminhar para uma soluções mais sofisticadas, como Redux e MobX. Enquanto lê o livro, você irá se deparar com trechos de código que ilustram problemas e soluções. Lhe encorajo a brincar com estes trechos, para ganhar experiência prática. Você pode até tentar aplicá-los em seu editor de texto pessoal, não hesite em fazê-lo desde cedo. Mas, não se preocupe se não funcionar de início. Você será conduzido por mim a aplicar seus novos conhecimentos em um editor ao longo de vários capítulos.
 
-Esses são os heróis deste livro: Estado Local (em React), Redux e MobX. Não teria sido possível escrever o livro sem as pessoas inovadoras, por trás destas soluções: [Dan Abramov][5], [Andrew Clark][6] e [Michel Weststrate][7]. Acho que posso agradecê-los em nome da comunidade, por seus esforços em tornar o gerenciamento de estados em aplicações modernas uma experiência consistente e prazeirosa.
+Os heróis deste livro são os seguintes: Estado Local (em React), Redux e MobX. Não teria sido possível escrevê-lo sem as pessoas inovadoras, por trás destas soluções: [Dan Abramov][5], [Andrew Clark][6] e [Michel Weststrate][7]. Acho que posso agradecê-los em nome da comunidade, por seus esforços em tornar o gerenciamento de estados em aplicações modernas uma experiência consistente e prazeirosa.
 
 [1]:	https://en.wikipedia.org/wiki/Single-page_application
 [2]:	https://en.wikipedia.org/wiki/JQuery
