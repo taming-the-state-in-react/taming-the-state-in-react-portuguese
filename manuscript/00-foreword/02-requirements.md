@@ -4,9 +4,9 @@ Quais são os pré-requisitos para ler o livro? Antes de tudo, você deve estar 
 
 ### React
 
-The book uses React as library to teach modern state management. It is a perfect choice for demonstrating and learning state management in modern applications. Because React is only a view layer, it is up to you to decide how to deal with the state in your application. The state management layer is exchangeable.
+Este livro utiliza React como biblioteca para ensinar o gerenciamento moderno de estado. Ele é a escolha perfeita, para demonstrar e aprender gerenciamento de estado em aplicações do mundo de hoje. Pelo motivo de React ser apenas uma camada de visão, fica a seu critério como lidar com o estado em sua aplicação. A camada de gerenciamento de estado pode ser permutada.
 
-After all, it's not necessary to be a React developer in order to learn about state management in modern applications. If you are developing with another framework, such as Angular, or library, such as Vue, all these things about state management taught in this book can still be applied in your applications.
+No fim, nem é necessário ser um desenvolvedor React, para aprender a respeito de gerenciamento de estado. Se você está desenvolvendo com algum outro *framework*, como Angular, ou biblioteca, como Vue, todas as coisas aqui ensinadas poderão ser utilizadas em suas aplicações.
 
 Still, since the book uses React for the sake of teaching state management in a proper context, if you are not familiar with React or need to have a refresher on the topic, I encourage you to read the precedent book: [The Road to learn React][3]. It is for free and should enable everyone to learn React. However, you can decide to pay something to support the project.
 
